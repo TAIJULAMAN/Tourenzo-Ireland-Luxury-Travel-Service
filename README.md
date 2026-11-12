@@ -310,7 +310,7 @@ Tourenzo is architected, developed, and maintained by experienced full-stack eng
 
 - **Md Shah Aman Patwary** — _Lead Full-Stack Software Engineer & Maintainer_
   - 🌐 GitHub: [@TAIJULAMAN](https://github.com/TAIJULAMAN)
-  - 📧 Email: [taijulaman8@gmail.com](mailto:taijulaman8@gmail.com)
+  - 📧 Email: [mdshahamanpatwary@gmail.com](mailto:mdshahamanpatwary@gmail.com)
 
 ---
 
