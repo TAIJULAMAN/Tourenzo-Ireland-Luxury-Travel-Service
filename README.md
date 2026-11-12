@@ -54,7 +54,7 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [ Title & Value Proposition](#overview)
 - [ Tech Stack Badges](#tech-stack)
@@ -79,25 +79,25 @@
 
 <a id="interface-preview"></a>
 
-## 🖼️ Interface Preview
+## Interface Preview
 
 Experience luxury mobility, real-time map routing, and instant booking funnels built with Next.js 16, React 19, Tailwind CSS 4, Google Maps, and Leaflet.
 
 |                          **Curated Ireland Day Trips**                           |                                 **By-The-Hour Chauffeur Hire**                                 |
 | :------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
 | <img src="./public/day-trips.jpg" alt="Curated Ireland Day Trips" width="480" /> | <img src="./public/by-the-hour.jpg" alt="By-the-Hour Private Chauffeur Service" width="480" /> |
-|          _Iconic routes: Cliffs of Moher, Ring of Kerry, Giant's Causeway_       |                 _Flexible hourly private car rental with dedicated chauffeur_                  |
+|        _Iconic routes: Cliffs of Moher, Ring of Kerry, Giant's Causeway_         |                 _Flexible hourly private car rental with dedicated chauffeur_                  |
 
-|                          **Dublin Airport Transfers**                            |                                  **Luxury Fleet & Safety**                                     |
-| :------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
-|   <img src="./public/plane.png" alt="Dublin Airport Transfers" width="480" />    |     <img src="./public/Safety&Comfort.jpg" alt="Safety & Comfort Fleet Standards" width="480" />   |
-|         _Punctual terminal meet & greet, flight tracking & zero delays_          |              _Pristine Mercedes-Benz executive sedans, premium SUVs & luxury vans_             |
+|                        **Dublin Airport Transfers**                         |                                  **Luxury Fleet & Safety**                                   |
+| :-------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
+| <img src="./public/plane.png" alt="Dublin Airport Transfers" width="480" /> | <img src="./public/Safety&Comfort.jpg" alt="Safety & Comfort Fleet Standards" width="480" /> |
+|       _Punctual terminal meet & greet, flight tracking & zero delays_       |            _Pristine Mercedes-Benz executive sedans, premium SUVs & luxury vans_             |
 
 ---
 
 <a id="core-features"></a>
 
-## ✨ Core Features & Service Portals
+## Core Features & Service Portals
 
 Tourenzo delivers a five-star private chauffeur experience across the Republic of Ireland and Northern Ireland, powered by smart dispatch calculations and instant digital reservations.
 
@@ -138,9 +138,9 @@ Tourenzo delivers a five-star private chauffeur experience across the Republic o
 ### **Dynamic Pricing Matrix & Vehicle Tiers**
 
 - **Tiered Fleet Selection**:
-  - *Executive Sedan*: Mercedes-Benz E-Class / BMW 5 Series (1-3 Passengers)
-  - *Luxury Saloon*: Mercedes-Benz S-Class (VIP travel)
-  - *Executive SUV / MPV*: Mercedes-Benz V-Class / Luxury Van (Up to 7-8 Passengers + Luggage)
+  - _Executive Sedan_: Mercedes-Benz E-Class / BMW 5 Series (1-3 Passengers)
+  - _Luxury Saloon_: Mercedes-Benz S-Class (VIP travel)
+  - _Executive SUV / MPV_: Mercedes-Benz V-Class / Luxury Van (Up to 7-8 Passengers + Luggage)
 - **Granular Pricing Engine**: Transparent base rates, per-kilometer formulas, waiting time fees, and regional tolls.
 
 <a id="stripe-booking"></a>
@@ -163,7 +163,7 @@ Tourenzo delivers a five-star private chauffeur experience across the Republic o
 
 <a id="architecture"></a>
 
-## 🏗️ Engineering Highlights & Architecture
+## Engineering Highlights & Architecture
 
 <a id="system-architecture"></a>
 
@@ -200,18 +200,18 @@ Tourenzo unites Next.js 16 App Router, Redux Toolkit state hydration, Google Map
 
 ### Vehicle Fleet & Service Capability Matrix
 
-| Vehicle Category    | Max Passengers | Luggage Capacity | Dublin Airport | By-The-Hour Hire | Day Trips | Multi-Day Tours |
-| :------------------ | :------------: | :--------------: | :------------: | :--------------: | :-------: | :-------------: |
-| **Executive Sedan** |  3 Passengers  |    2 Large + 2 Small |  Full Access   |   Full Access    | Full Access |   Full Access   |
-| **Luxury Saloon**   |  3 Passengers  |    2 Large + 2 Small |  Full Access   |   Full Access    | Full Access |   Full Access   |
-| **Executive MPV**   |  6 Passengers  |    6 Large + 4 Small |  Full Access   |   Full Access    | Full Access |   Full Access   |
-| **Luxury Van**      |  8 Passengers  |    8 Large + 6 Small |  Full Access   |   Full Access    | Full Access |   Full Access   |
+| Vehicle Category    | Max Passengers | Luggage Capacity  | Dublin Airport | By-The-Hour Hire |  Day Trips  | Multi-Day Tours |
+| :------------------ | :------------: | :---------------: | :------------: | :--------------: | :---------: | :-------------: |
+| **Executive Sedan** |  3 Passengers  | 2 Large + 2 Small |  Full Access   |   Full Access    | Full Access |   Full Access   |
+| **Luxury Saloon**   |  3 Passengers  | 2 Large + 2 Small |  Full Access   |   Full Access    | Full Access |   Full Access   |
+| **Executive MPV**   |  6 Passengers  | 6 Large + 4 Small |  Full Access   |   Full Access    | Full Access |   Full Access   |
+| **Luxury Van**      |  8 Passengers  | 8 Large + 6 Small |  Full Access   |   Full Access    | Full Access |   Full Access   |
 
 ---
 
 <a id="project-structure"></a>
 
-## 📂 Project Directory Structure
+## Project Directory Structure
 
 ```plaintext
 IrelandGo-website/
@@ -304,7 +304,7 @@ IrelandGo-website/
 
 <a id="developer-info"></a>
 
-## 👨‍💻 Developer Info & Socials
+## Developer Info & Socials
 
 Tourenzo is architected, developed, and maintained by experienced full-stack engineers and geospatial mobility specialists.
 
@@ -316,7 +316,7 @@ Tourenzo is architected, developed, and maintained by experienced full-stack eng
 
 <a id="license"></a>
 
-## 📄 License & Proprietary Notice
+## License & Proprietary Notice
 
 Copyright © 2026 Tourenzo. All rights reserved.
 
@@ -325,4 +325,3 @@ This software, including its user interface design, routing algorithms, dynamic 
 <div align="center">
   <b>Built with ❤️ for luxury private journeys and unforgettable Irish adventures</b>
 </div>
-
